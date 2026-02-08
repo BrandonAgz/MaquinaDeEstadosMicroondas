@@ -1,8 +1,6 @@
-# Maquina De Estados Microondas\n
-
-MICROONDAS - MÁQUINA DE ESTADOS FINITOS\n
+# Maquina De Estados Microondas
 1. INFORMACIÓN GENERAL\n
-   •	Proyecto: Maquina De Estados Microondas\n
+   •	Proyecto: Maquina De Estados Microondas
    •	Paradigma: Programación por Estados
    •	Lenguaje: Python 3
 2. OBJETIVO DEL PROYECTO
