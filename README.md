@@ -1,5 +1,5 @@
-# Maquina De Estados Microondas
-1. INFORMACIÓN GENERAL\n
+# Maquina De Estados Microondas<br>
+1. INFORMACIÓN GENERAL<br>
    •	Proyecto: Maquina De Estados Microondas
    •	Paradigma: Programación por Estados
    •	Lenguaje: Python 3
